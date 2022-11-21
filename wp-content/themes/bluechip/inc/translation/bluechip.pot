@@ -1,0 +1,866 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Bluechip v1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2017-07-05 02:03:13+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNITED STATES\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: ../../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: 404.php:20
+#@ bluechip
+msgid "404"
+msgstr ""
+
+#: 404.php:27
+#@ bluechip
+msgid "Not Found"
+msgstr ""
+
+#: 404.php:29
+#@ bluechip
+msgid "The article you were looking for was not found. You may want to check your link or perhaps that page does not exist anymore. Maybe try a search?"
+msgstr ""
+
+#: comments.php:21
+#@ bluechip
+msgid "<span>No</span> Comments"
+msgstr ""
+
+#: comments.php:21
+#@ bluechip
+msgid "<span>1</span> Comment"
+msgstr ""
+
+#: comments.php:21
+#@ bluechip
+msgid "<span>%</span> Comments"
+msgid_plural "<span>%</span> Comments"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:41
+#@ bluechip
+msgid "&larr; Previous Comments"
+msgstr ""
+
+#: comments.php:42
+#@ bluechip
+msgid "Next Comments &rarr;"
+msgstr ""
+
+#: comments.php:47
+#@ bluechip
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:54
+#@ bluechip
+msgid "Leave a Comment"
+msgstr ""
+
+#: comments.php:55
+#, php-format
+#@ bluechip
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: comments.php:56
+#@ bluechip
+msgid "Cancel Reply"
+msgstr ""
+
+#: comments.php:57
+#@ bluechip
+msgid "Post Comment"
+msgstr ""
+
+#: contents/content-none.php:14
+#@ bluechip
+msgid "Nothing Found"
+msgstr ""
+
+#: contents/content-none.php:21
+#, php-format
+#@ bluechip
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: contents/content-none.php:25
+#@ bluechip
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr ""
+
+#: contents/content-none.php:31
+#@ bluechip
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr ""
+
+#: contents/content-page.php:21
+#: contents/content-single.php:21
+#: contents/content.php:43
+#@ bluechip
+msgid "Pages:"
+msgstr ""
+
+#. translators: %s: Name of current post
+#: contents/content-page.php:33
+#, php-format
+#@ bluechip
+msgid "Edit %s"
+msgstr ""
+
+#: contents/content-single.php:34
+#, php-format
+#@ bluechip
+msgid "Filed under: %s"
+msgstr ""
+
+#: contents/content-single.php:43
+#@ bluechip
+msgid "Tags: "
+msgstr ""
+
+#. translators: %s: Name of current post.
+#: contents/content.php:33
+#, php-format
+#@ bluechip
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: inc/customizer/controls.php:14
+#@ bluechip
+msgid "Homepage Sections"
+msgstr ""
+
+#: inc/customizer/controls.php:16
+#@ bluechip
+msgid "Select a page to be assigned for each section"
+msgstr ""
+
+#: inc/customizer/controls.php:24
+#@ bluechip
+msgid "Banner"
+msgstr ""
+
+#: inc/customizer/controls.php:35
+#@ bluechip
+msgid "Section 1"
+msgstr ""
+
+#: inc/customizer/controls.php:46
+#@ bluechip
+msgid "Section 2"
+msgstr ""
+
+#: inc/customizer/controls.php:57
+#@ bluechip
+msgid "Section 3"
+msgstr ""
+
+#: inc/customizer/controls.php:68
+#@ bluechip
+msgid "Section 4"
+msgstr ""
+
+#: inc/customizer/controls.php:79
+#@ bluechip
+msgid "Section 5"
+msgstr ""
+
+#: inc/customizer/controls.php:92
+#@ bluechip
+msgid "Primary Color Scheme"
+msgstr ""
+
+#: inc/customizer/controls.php:103
+#@ bluechip
+msgid "Footer Background"
+msgstr ""
+
+#: inc/functions/custom-functions.php:211
+#@ bluechip
+msgid "Shortcodes Ultimate"
+msgstr ""
+
+#: inc/functions/custom-functions.php:217
+#@ bluechip
+msgid "Better Contact Details"
+msgstr ""
+
+#: inc/functions/custom-functions.php:240
+#: inc/plugin/class-tgm.php:327
+#@ bluechip
+msgid "Install Required Plugins"
+msgstr ""
+
+#: inc/functions/custom-functions.php:241
+#: inc/plugin/class-tgm.php:328
+#@ bluechip
+msgid "Install Plugins"
+msgstr ""
+
+#. translators: %s: plugin name.
+#: inc/functions/custom-functions.php:242
+#: inc/plugin/class-tgm.php:330
+#, php-format
+#@ bluechip
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: inc/functions/custom-functions.php:243
+#: inc/plugin/class-tgm.php:333
+#@ bluechip
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#. translators: 1: plugin name(s).
+#: inc/functions/custom-functions.php:244
+#: inc/plugin/class-tgm.php:336
+#, php-format
+#@ bluechip
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: inc/functions/custom-functions.php:245
+#: inc/plugin/class-tgm.php:342
+#, php-format
+#@ bluechip
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/functions/custom-functions.php:246
+#, php-format
+#@ bluechip
+msgid "Sorry, but you do not have the correct permissions to install the %s plugin. Contact the administrator of this site for help on getting the plugin installed."
+msgid_plural "Sorry, but you do not have the correct permissions to install the %s plugins. Contact the administrator of this site for help on getting the plugins installed."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: inc/functions/custom-functions.php:247
+#: inc/plugin/class-tgm.php:360
+#, php-format
+#@ bluechip
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: inc/functions/custom-functions.php:248
+#: inc/plugin/class-tgm.php:366
+#, php-format
+#@ bluechip
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/functions/custom-functions.php:249
+#, php-format
+#@ bluechip
+msgid "Sorry, but you do not have the correct permissions to activate the %s plugin. Contact the administrator of this site for help on getting the plugin activated."
+msgid_plural "Sorry, but you do not have the correct permissions to activate the %s plugins. Contact the administrator of this site for help on getting the plugins activated."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: inc/functions/custom-functions.php:250
+#: inc/plugin/class-tgm.php:348
+#, php-format
+#@ bluechip
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/functions/custom-functions.php:251
+#, php-format
+#@ bluechip
+msgid "Sorry, but you do not have the correct permissions to update the %s plugin. Contact the administrator of this site for help on getting the plugin updated."
+msgid_plural "Sorry, but you do not have the correct permissions to update the %s plugins. Contact the administrator of this site for help on getting the plugins updated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/functions/custom-functions.php:252
+#: inc/plugin/class-tgm.php:371
+#@ bluechip
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/functions/custom-functions.php:253
+#: inc/plugin/class-tgm.php:381
+#@ bluechip
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/functions/custom-functions.php:254
+#: inc/plugin/class-tgm.php:385
+#@ bluechip
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: inc/functions/custom-functions.php:255
+#: inc/plugin/class-tgm.php:387
+#: inc/plugin/class-tgm.php:3159
+#@ bluechip
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: inc/functions/custom-functions.php:256
+#, php-format
+#@ bluechip
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: inc/functions/functions.php:87
+#@ bluechip
+msgid "The Main Menu"
+msgstr ""
+
+#: inc/functions/functions.php:100
+#@ bluechip
+msgid "Posts Widget Area"
+msgstr ""
+
+#: inc/functions/functions.php:101
+#@ bluechip
+msgid "The Posts Widget Area."
+msgstr ""
+
+#: inc/functions/functions.php:110
+#@ bluechip
+msgid "Footer Widget Area 1"
+msgstr ""
+
+#: inc/functions/functions.php:111
+#: inc/functions/functions.php:121
+#: inc/functions/functions.php:131
+#@ bluechip
+msgid "The Footer Widget Area."
+msgstr ""
+
+#: inc/functions/functions.php:120
+#@ bluechip
+msgid "Footer Widget Area 2"
+msgstr ""
+
+#: inc/functions/functions.php:130
+#@ bluechip
+msgid "Footer Widget Area 3"
+msgstr ""
+
+#: inc/functions/functions.php:151
+#@ bluechip
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: inc/functions/functions.php:155
+#, php-format
+#@ bluechip
+msgid "<cite class=\"fn\">%1$s</cite> %2$s"
+msgstr ""
+
+#: inc/functions/functions.php:155
+#@ bluechip
+msgid "(Edit)"
+msgstr ""
+
+#: inc/functions/functions.php:156
+#@ bluechip
+msgid "F jS, Y"
+msgstr ""
+
+#: inc/functions/template-hooks.php:38
+#@ bluechip
+msgid "Toggle navigation"
+msgstr ""
+
+#: inc/functions/template-hooks.php:91
+#@ bluechip
+msgid "You may also like "
+msgstr ""
+
+#: inc/functions/template-hooks.php:320
+#@ bluechip
+msgid "https://wordpress.org/"
+msgstr ""
+
+#: inc/functions/template-hooks.php:320
+#, php-format
+#@ bluechip
+msgid "Built with %s"
+msgstr ""
+
+#: inc/functions/template-hooks.php:320
+#@ bluechip
+msgid "and"
+msgstr ""
+
+#: inc/functions/template-hooks.php:320
+#@ bluechip
+msgid "https://wpdevshed.com/"
+msgstr ""
+
+#. translators: %s: plugin name.
+#: inc/plugin/class-tgm.php:332
+#, php-format
+#@ bluechip
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#. translators: 1: plugin name(s).
+#: inc/plugin/class-tgm.php:354
+#, php-format
+#@ bluechip
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/plugin/class-tgm.php:376
+#@ bluechip
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/plugin/class-tgm.php:386
+#: inc/plugin/class-tgm.php:827
+#: inc/plugin/class-tgm.php:2533
+#: inc/plugin/class-tgm.php:3580
+#@ bluechip
+msgid "Return to the Dashboard"
+msgstr ""
+
+#. translators: 1: plugin name.
+#: inc/plugin/class-tgm.php:390
+#, php-format
+#@ bluechip
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: inc/plugin/class-tgm.php:392
+#, php-format
+#@ bluechip
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr ""
+
+#. translators: 1: dashboard link.
+#: inc/plugin/class-tgm.php:394
+#, php-format
+#@ bluechip
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: inc/plugin/class-tgm.php:395
+#@ bluechip
+msgid "Dismiss this notice"
+msgstr ""
+
+#: inc/plugin/class-tgm.php:396
+#@ bluechip
+msgid "There are one or more required or recommended plugins to install, update or activate."
+msgstr ""
+
+#: inc/plugin/class-tgm.php:397
+#@ bluechip
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: inc/plugin/class-tgm.php:522
+#@ bluechip
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: inc/plugin/class-tgm.php:523
+#@ bluechip
+msgid "Update Required"
+msgstr ""
+
+#: inc/plugin/class-tgm.php:934
+#@ bluechip
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr ""
+
+#: inc/plugin/class-tgm.php:934
+#: inc/plugin/class-tgm.php:937
+#@ bluechip
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr ""
+
+#: inc/plugin/class-tgm.php:937
+#@ bluechip
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr ""
+
+#: inc/plugin/class-tgm.php:1121
+#: inc/plugin/class-tgm.php:2948
+#@ bluechip
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#. translators: %s: version number
+#: inc/plugin/class-tgm.php:1982
+#, php-format
+#@ bluechip
+msgid "TGMPA v%s"
+msgstr ""
+
+#: inc/plugin/class-tgm.php:2273
+#@ bluechip
+msgid "Required"
+msgstr ""
+
+#: inc/plugin/class-tgm.php:2276
+#@ bluechip
+msgid "Recommended"
+msgstr ""
+
+#: inc/plugin/class-tgm.php:2292
+#@ bluechip
+msgid "WordPress Repository"
+msgstr ""
+
+#: inc/plugin/class-tgm.php:2295
+#@ bluechip
+msgid "External Source"
+msgstr ""
+
+#: inc/plugin/class-tgm.php:2298
+#@ bluechip
+msgid "Pre-Packaged"
+msgstr ""
+
+#: inc/plugin/class-tgm.php:2315
+#@ bluechip
+msgid "Not Installed"
+msgstr ""
+
+#: inc/plugin/class-tgm.php:2319
+#@ bluechip
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: inc/plugin/class-tgm.php:2321
+#@ bluechip
+msgid "Active"
+msgstr ""
+
+#: inc/plugin/class-tgm.php:2327
+#@ bluechip
+msgid "Required Update not Available"
+msgstr ""
+
+#: inc/plugin/class-tgm.php:2330
+#@ bluechip
+msgid "Requires Update"
+msgstr ""
+
+#: inc/plugin/class-tgm.php:2333
+#@ bluechip
+msgid "Update recommended"
+msgstr ""
+
+#. translators: 1: install status, 2: update status
+#: inc/plugin/class-tgm.php:2342
+#, php-format
+#@ bluechip
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#. translators: 1: number of plugins.
+#: inc/plugin/class-tgm.php:2388
+#, php-format
+#@ bluechip
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: inc/plugin/class-tgm.php:2392
+#, php-format
+#@ bluechip
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: inc/plugin/class-tgm.php:2396
+#, php-format
+#@ bluechip
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: inc/plugin/class-tgm.php:2400
+#, php-format
+#@ bluechip
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/plugin/class-tgm.php:2482
+#@ bluechip
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: inc/plugin/class-tgm.php:2490
+#@ bluechip
+msgid "Installed version:"
+msgstr ""
+
+#: inc/plugin/class-tgm.php:2498
+#@ bluechip
+msgid "Minimum required version:"
+msgstr ""
+
+#: inc/plugin/class-tgm.php:2510
+#@ bluechip
+msgid "Available version:"
+msgstr ""
+
+#: inc/plugin/class-tgm.php:2533
+#@ bluechip
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: inc/plugin/class-tgm.php:2547
+#@ bluechip
+msgid "Plugin"
+msgstr ""
+
+#: inc/plugin/class-tgm.php:2548
+#@ bluechip
+msgid "Source"
+msgstr ""
+
+#: inc/plugin/class-tgm.php:2549
+#@ bluechip
+msgid "Type"
+msgstr ""
+
+#: inc/plugin/class-tgm.php:2553
+#@ bluechip
+msgid "Version"
+msgstr ""
+
+#: inc/plugin/class-tgm.php:2554
+#@ bluechip
+msgid "Status"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/plugin/class-tgm.php:2603
+#, php-format
+#@ bluechip
+msgid "Install %2$s"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/plugin/class-tgm.php:2608
+#, php-format
+#@ bluechip
+msgid "Update %2$s"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/plugin/class-tgm.php:2614
+#, php-format
+#@ bluechip
+msgid "Activate %2$s"
+msgstr ""
+
+#: inc/plugin/class-tgm.php:2684
+#@ bluechip
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: inc/plugin/class-tgm.php:2717
+#@ bluechip
+msgid "Install"
+msgstr ""
+
+#: inc/plugin/class-tgm.php:2723
+#@ bluechip
+msgid "Update"
+msgstr ""
+
+#: inc/plugin/class-tgm.php:2726
+#@ bluechip
+msgid "Activate"
+msgstr ""
+
+#: inc/plugin/class-tgm.php:2757
+#@ bluechip
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: inc/plugin/class-tgm.php:2759
+#@ bluechip
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: inc/plugin/class-tgm.php:2800
+#@ bluechip
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: inc/plugin/class-tgm.php:2802
+#@ bluechip
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: inc/plugin/class-tgm.php:2908
+#@ bluechip
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: inc/plugin/class-tgm.php:2934
+#@ bluechip
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#. gettext fix: identical singular and plural forms found, that may be ambiguous! Please check the code!
+#: inc/plugin/class-tgm.php:2952
+#: inc/plugin/class-tgm.php:388
+#@ bluechip
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/plugin/class-tgm.php:3158
+#@ bluechip
+msgid "Plugin activation failed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/plugin/class-tgm.php:3498
+#, php-format
+#@ bluechip
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#. translators: 1: plugin name, 2: error message.
+#: inc/plugin/class-tgm.php:3501
+#, php-format
+#@ bluechip
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: inc/plugin/class-tgm.php:3503
+#, php-format
+#@ bluechip
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: inc/plugin/class-tgm.php:3507
+#@ bluechip
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: inc/plugin/class-tgm.php:3509
+#, php-format
+#@ bluechip
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: inc/plugin/class-tgm.php:3509
+#: inc/plugin/class-tgm.php:3517
+#@ bluechip
+msgid "Show Details"
+msgstr ""
+
+#: inc/plugin/class-tgm.php:3509
+#: inc/plugin/class-tgm.php:3517
+#@ bluechip
+msgid "Hide Details"
+msgstr ""
+
+#: inc/plugin/class-tgm.php:3510
+#@ bluechip
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/plugin/class-tgm.php:3512
+#, php-format
+#@ bluechip
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/plugin/class-tgm.php:3515
+#@ bluechip
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: inc/plugin/class-tgm.php:3517
+#, php-format
+#@ bluechip
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: inc/plugin/class-tgm.php:3518
+#@ bluechip
+msgid "All installations have been completed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/plugin/class-tgm.php:3520
+#, php-format
+#@ bluechip
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: index.php:21
+#@ bluechip
+msgid "Blog"
+msgstr ""
+
+#: search.php:20
+#@ bluechip
+msgid "Search Results for:"
+msgstr ""
+
+#: sidebar.php:24
+#@ bluechip
+msgid "This is a widget ready area. Add some and they will appear here."
+msgstr ""
+

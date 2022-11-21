@@ -1,0 +1,104 @@
+2021-08-05T00:29:14+00:00 CRITICAL Access level to ElementorPro\Modules\ThemeBuilder\Documents\Theme_Document::get_create_url() must be public (as in class Elementor\Core\Base\Document), em /home1/belfiu90/public_html/ICEPGO.COM.BR/wp-content/plugins/elementor-pro/modules/theme-builder/documents/theme-document.php, na linha 627
+
+2021-08-05T02:07:53+00:00 CRITICAL Access level to ElementorPro\Modules\ThemeBuilder\Documents\Theme_Document::get_create_url() must be public (as in class Elementor\Core\Base\Document), em /home1/belfiu90/public_html/ICEPGO.COM.BR/wp-content/plugins/elementor-pro/modules/theme-builder/documents/theme-document.php, na linha 627
+
+2021-08-05T02:07:54+00:00 CRITICAL Access level to ElementorPro\Modules\ThemeBuilder\Documents\Theme_Document::get_create_url() must be public (as in class Elementor\Core\Base\Document), em /home1/belfiu90/public_html/ICEPGO.COM.BR/wp-content/plugins/elementor-pro/modules/theme-builder/documents/theme-document.php, na linha 627
+
+2021-08-05T02:08:07+00:00 CRITICAL Access level to ElementorPro\Modules\ThemeBuilder\Documents\Theme_Document::get_create_url() must be public (as in class Elementor\Core\Base\Document), em /home1/belfiu90/public_html/ICEPGO.COM.BR/wp-content/plugins/elementor-pro/modules/theme-builder/documents/theme-document.php, na linha 627
+
+2021-08-05T02:26:52+00:00 CRITICAL Access level to ElementorPro\Modules\ThemeBuilder\Documents\Theme_Document::get_create_url() must be public (as in class Elementor\Core\Base\Document), em /home1/belfiu90/public_html/ICEPGO.COM.BR/wp-content/plugins/elementor-pro/modules/theme-builder/documents/theme-document.php, na linha 627
+
+2021-08-05T03:45:18+00:00 CRITICAL Access level to ElementorPro\Modules\ThemeBuilder\Documents\Theme_Document::get_create_url() must be public (as in class Elementor\Core\Base\Document), em /home1/belfiu90/public_html/ICEPGO.COM.BR/wp-content/plugins/elementor-pro/modules/theme-builder/documents/theme-document.php, na linha 627
+
+2021-08-05T03:45:19+00:00 CRITICAL Access level to ElementorPro\Modules\ThemeBuilder\Documents\Theme_Document::get_create_url() must be public (as in class Elementor\Core\Base\Document), em /home1/belfiu90/public_html/ICEPGO.COM.BR/wp-content/plugins/elementor-pro/modules/theme-builder/documents/theme-document.php, na linha 627
+
+2021-08-05T03:45:21+00:00 CRITICAL Access level to ElementorPro\Modules\ThemeBuilder\Documents\Theme_Document::get_create_url() must be public (as in class Elementor\Core\Base\Document), em /home1/belfiu90/public_html/ICEPGO.COM.BR/wp-content/plugins/elementor-pro/modules/theme-builder/documents/theme-document.php, na linha 627
+
+2021-08-05T03:45:31+00:00 CRITICAL Access level to ElementorPro\Modules\ThemeBuilder\Documents\Theme_Document::get_create_url() must be public (as in class Elementor\Core\Base\Document), em /home1/belfiu90/public_html/ICEPGO.COM.BR/wp-content/plugins/elementor-pro/modules/theme-builder/documents/theme-document.php, na linha 627
+
+2021-08-05T03:46:16+00:00 CRITICAL Access level to ElementorPro\Modules\ThemeBuilder\Documents\Theme_Document::get_create_url() must be public (as in class Elementor\Core\Base\Document), em /home1/belfiu90/public_html/ICEPGO.COM.BR/wp-content/plugins/elementor-pro/modules/theme-builder/documents/theme-document.php, na linha 627
+
+2021-08-05T03:48:36+00:00 CRITICAL Access level to ElementorPro\Modules\ThemeBuilder\Documents\Theme_Document::get_create_url() must be public (as in class Elementor\Core\Base\Document), em /home1/belfiu90/public_html/ICEPGO.COM.BR/wp-content/plugins/elementor-pro/modules/theme-builder/documents/theme-document.php, na linha 627
+
+2021-08-05T06:13:21+00:00 CRITICAL Access level to ElementorPro\Modules\ThemeBuilder\Documents\Theme_Document::get_create_url() must be public (as in class Elementor\Core\Base\Document), em /home1/belfiu90/public_html/ICEPGO.COM.BR/wp-content/plugins/elementor-pro/modules/theme-builder/documents/theme-document.php, na linha 627
+
+2021-08-05T06:13:23+00:00 CRITICAL Access level to ElementorPro\Modules\ThemeBuilder\Documents\Theme_Document::get_create_url() must be public (as in class Elementor\Core\Base\Document), em /home1/belfiu90/public_html/ICEPGO.COM.BR/wp-content/plugins/elementor-pro/modules/theme-builder/documents/theme-document.php, na linha 627
+
+2021-08-05T06:13:24+00:00 CRITICAL Access level to ElementorPro\Modules\ThemeBuilder\Documents\Theme_Document::get_create_url() must be public (as in class Elementor\Core\Base\Document), em /home1/belfiu90/public_html/ICEPGO.COM.BR/wp-content/plugins/elementor-pro/modules/theme-builder/documents/theme-document.php, na linha 627
+
+2021-08-05T06:13:26+00:00 CRITICAL Access level to ElementorPro\Modules\ThemeBuilder\Documents\Theme_Document::get_create_url() must be public (as in class Elementor\Core\Base\Document), em /home1/belfiu90/public_html/ICEPGO.COM.BR/wp-content/plugins/elementor-pro/modules/theme-builder/documents/theme-document.php, na linha 627
+
+2021-08-05T06:15:21+00:00 CRITICAL Access level to ElementorPro\Modules\ThemeBuilder\Documents\Theme_Document::get_create_url() must be public (as in class Elementor\Core\Base\Document), em /home1/belfiu90/public_html/ICEPGO.COM.BR/wp-content/plugins/elementor-pro/modules/theme-builder/documents/theme-document.php, na linha 627
+
+2021-08-05T06:15:22+00:00 CRITICAL Access level to ElementorPro\Modules\ThemeBuilder\Documents\Theme_Document::get_create_url() must be public (as in class Elementor\Core\Base\Document), em /home1/belfiu90/public_html/ICEPGO.COM.BR/wp-content/plugins/elementor-pro/modules/theme-builder/documents/theme-document.php, na linha 627
+
+2021-08-05T06:15:25+00:00 CRITICAL Access level to ElementorPro\Modules\ThemeBuilder\Documents\Theme_Document::get_create_url() must be public (as in class Elementor\Core\Base\Document), em /home1/belfiu90/public_html/ICEPGO.COM.BR/wp-content/plugins/elementor-pro/modules/theme-builder/documents/theme-document.php, na linha 627
+
+2021-08-05T07:44:14+00:00 CRITICAL Access level to ElementorPro\Modules\ThemeBuilder\Documents\Theme_Document::get_create_url() must be public (as in class Elementor\Core\Base\Document), em /home1/belfiu90/public_html/ICEPGO.COM.BR/wp-content/plugins/elementor-pro/modules/theme-builder/documents/theme-document.php, na linha 627
+
+2021-08-05T09:10:25+00:00 CRITICAL Access level to ElementorPro\Modules\ThemeBuilder\Documents\Theme_Document::get_create_url() must be public (as in class Elementor\Core\Base\Document), em /home1/belfiu90/public_html/ICEPGO.COM.BR/wp-content/plugins/elementor-pro/modules/theme-builder/documents/theme-document.php, na linha 627
+
+2021-08-05T09:10:40+00:00 CRITICAL Access level to ElementorPro\Modules\ThemeBuilder\Documents\Theme_Document::get_create_url() must be public (as in class Elementor\Core\Base\Document), em /home1/belfiu90/public_html/ICEPGO.COM.BR/wp-content/plugins/elementor-pro/modules/theme-builder/documents/theme-document.php, na linha 627
+
+2021-08-05T09:10:42+00:00 CRITICAL Access level to ElementorPro\Modules\ThemeBuilder\Documents\Theme_Document::get_create_url() must be public (as in class Elementor\Core\Base\Document), em /home1/belfiu90/public_html/ICEPGO.COM.BR/wp-content/plugins/elementor-pro/modules/theme-builder/documents/theme-document.php, na linha 627
+
+2021-08-05T14:38:29+00:00 CRITICAL Access level to ElementorPro\Modules\ThemeBuilder\Documents\Theme_Document::get_create_url() must be public (as in class Elementor\Core\Base\Document), em /home1/belfiu90/public_html/ICEPGO.COM.BR/wp-content/plugins/elementor-pro/modules/theme-builder/documents/theme-document.php, na linha 627
+
+2021-08-05T15:45:24+00:00 CRITICAL Access level to ElementorPro\Modules\ThemeBuilder\Documents\Theme_Document::get_create_url() must be public (as in class Elementor\Core\Base\Document), em /home1/belfiu90/public_html/ICEPGO.COM.BR/wp-content/plugins/elementor-pro/modules/theme-builder/documents/theme-document.php, na linha 627
+
+2021-08-05T15:45:26+00:00 CRITICAL Access level to ElementorPro\Modules\ThemeBuilder\Documents\Theme_Document::get_create_url() must be public (as in class Elementor\Core\Base\Document), em /home1/belfiu90/public_html/ICEPGO.COM.BR/wp-content/plugins/elementor-pro/modules/theme-builder/documents/theme-document.php, na linha 627
+
+2021-08-05T15:45:28+00:00 CRITICAL Access level to ElementorPro\Modules\ThemeBuilder\Documents\Theme_Document::get_create_url() must be public (as in class Elementor\Core\Base\Document), em /home1/belfiu90/public_html/ICEPGO.COM.BR/wp-content/plugins/elementor-pro/modules/theme-builder/documents/theme-document.php, na linha 627
+
+2021-08-05T15:45:30+00:00 CRITICAL Access level to ElementorPro\Modules\ThemeBuilder\Documents\Theme_Document::get_create_url() must be public (as in class Elementor\Core\Base\Document), em /home1/belfiu90/public_html/ICEPGO.COM.BR/wp-content/plugins/elementor-pro/modules/theme-builder/documents/theme-document.php, na linha 627
+
+2021-08-05T15:45:34+00:00 CRITICAL Access level to ElementorPro\Modules\ThemeBuilder\Documents\Theme_Document::get_create_url() must be public (as in class Elementor\Core\Base\Document), em /home1/belfiu90/public_html/ICEPGO.COM.BR/wp-content/plugins/elementor-pro/modules/theme-builder/documents/theme-document.php, na linha 627
+
+2021-08-05T17:15:37+00:00 CRITICAL Access level to ElementorPro\Modules\ThemeBuilder\Documents\Theme_Document::get_create_url() must be public (as in class Elementor\Core\Base\Document), em /home1/belfiu90/public_html/ICEPGO.COM.BR/wp-content/plugins/elementor-pro/modules/theme-builder/documents/theme-document.php, na linha 627
+
+2021-08-05T17:15:40+00:00 CRITICAL Access level to ElementorPro\Modules\ThemeBuilder\Documents\Theme_Document::get_create_url() must be public (as in class Elementor\Core\Base\Document), em /home1/belfiu90/public_html/ICEPGO.COM.BR/wp-content/plugins/elementor-pro/modules/theme-builder/documents/theme-document.php, na linha 627
+
+2021-08-05T17:17:27+00:00 CRITICAL Access level to ElementorPro\Modules\ThemeBuilder\Documents\Theme_Document::get_create_url() must be public (as in class Elementor\Core\Base\Document), em /home1/belfiu90/public_html/ICEPGO.COM.BR/wp-content/plugins/elementor-pro/modules/theme-builder/documents/theme-document.php, na linha 627
+
+2021-08-05T17:17:29+00:00 CRITICAL Access level to ElementorPro\Modules\ThemeBuilder\Documents\Theme_Document::get_create_url() must be public (as in class Elementor\Core\Base\Document), em /home1/belfiu90/public_html/ICEPGO.COM.BR/wp-content/plugins/elementor-pro/modules/theme-builder/documents/theme-document.php, na linha 627
+
+2021-08-05T18:58:15+00:00 CRITICAL Access level to ElementorPro\Modules\ThemeBuilder\Documents\Theme_Document::get_create_url() must be public (as in class Elementor\Core\Base\Document), em /home1/belfiu90/public_html/ICEPGO.COM.BR/wp-content/plugins/elementor-pro/modules/theme-builder/documents/theme-document.php, na linha 627
+
+2021-08-05T19:10:15+00:00 CRITICAL Access level to ElementorPro\Modules\ThemeBuilder\Documents\Theme_Document::get_create_url() must be public (as in class Elementor\Core\Base\Document), em /home1/belfiu90/public_html/ICEPGO.COM.BR/wp-content/plugins/elementor-pro/modules/theme-builder/documents/theme-document.php, na linha 627
+
+2021-08-05T19:10:18+00:00 CRITICAL Access level to ElementorPro\Modules\ThemeBuilder\Documents\Theme_Document::get_create_url() must be public (as in class Elementor\Core\Base\Document), em /home1/belfiu90/public_html/ICEPGO.COM.BR/wp-content/plugins/elementor-pro/modules/theme-builder/documents/theme-document.php, na linha 627
+
+2021-08-05T19:14:42+00:00 CRITICAL Access level to ElementorPro\Modules\ThemeBuilder\Documents\Theme_Document::get_create_url() must be public (as in class Elementor\Core\Base\Document), em /home1/belfiu90/public_html/ICEPGO.COM.BR/wp-content/plugins/elementor-pro/modules/theme-builder/documents/theme-document.php, na linha 627
+
+2021-08-05T19:14:43+00:00 CRITICAL Access level to ElementorPro\Modules\ThemeBuilder\Documents\Theme_Document::get_create_url() must be public (as in class Elementor\Core\Base\Document), em /home1/belfiu90/public_html/ICEPGO.COM.BR/wp-content/plugins/elementor-pro/modules/theme-builder/documents/theme-document.php, na linha 627
+
+2021-08-05T19:15:51+00:00 CRITICAL Access level to ElementorPro\Modules\ThemeBuilder\Documents\Theme_Document::get_create_url() must be public (as in class Elementor\Core\Base\Document), em /home1/belfiu90/public_html/ICEPGO.COM.BR/wp-content/plugins/elementor-pro/modules/theme-builder/documents/theme-document.php, na linha 627
+
+2021-08-05T19:17:03+00:00 CRITICAL Access level to ElementorPro\Modules\ThemeBuilder\Documents\Theme_Document::get_create_url() must be public (as in class Elementor\Core\Base\Document), em /home1/belfiu90/public_html/ICEPGO.COM.BR/wp-content/plugins/elementor-pro/modules/theme-builder/documents/theme-document.php, na linha 627
+
+2021-08-05T19:28:33+00:00 CRITICAL Access level to ElementorPro\Modules\ThemeBuilder\Documents\Theme_Document::get_create_url() must be public (as in class Elementor\Core\Base\Document), em /home1/belfiu90/public_html/ICEPGO.COM.BR/wp-content/plugins/elementor-pro/modules/theme-builder/documents/theme-document.php, na linha 627
+
+2021-08-05T19:28:34+00:00 CRITICAL Access level to ElementorPro\Modules\ThemeBuilder\Documents\Theme_Document::get_create_url() must be public (as in class Elementor\Core\Base\Document), em /home1/belfiu90/public_html/ICEPGO.COM.BR/wp-content/plugins/elementor-pro/modules/theme-builder/documents/theme-document.php, na linha 627
+
+2021-08-05T19:43:18+00:00 CRITICAL Access level to ElementorPro\Modules\ThemeBuilder\Documents\Theme_Document::get_create_url() must be public (as in class Elementor\Core\Base\Document), em /home1/belfiu90/public_html/ICEPGO.COM.BR/wp-content/plugins/elementor-pro/modules/theme-builder/documents/theme-document.php, na linha 627
+
+2021-08-05T19:43:21+00:00 CRITICAL Access level to ElementorPro\Modules\ThemeBuilder\Documents\Theme_Document::get_create_url() must be public (as in class Elementor\Core\Base\Document), em /home1/belfiu90/public_html/ICEPGO.COM.BR/wp-content/plugins/elementor-pro/modules/theme-builder/documents/theme-document.php, na linha 627
+
+2021-08-05T19:59:39+00:00 CRITICAL Access level to ElementorPro\Modules\ThemeBuilder\Documents\Theme_Document::get_create_url() must be public (as in class Elementor\Core\Base\Document), em /home1/belfiu90/public_html/ICEPGO.COM.BR/wp-content/plugins/elementor-pro/modules/theme-builder/documents/theme-document.php, na linha 627
+
+2021-08-05T19:59:41+00:00 CRITICAL Access level to ElementorPro\Modules\ThemeBuilder\Documents\Theme_Document::get_create_url() must be public (as in class Elementor\Core\Base\Document), em /home1/belfiu90/public_html/ICEPGO.COM.BR/wp-content/plugins/elementor-pro/modules/theme-builder/documents/theme-document.php, na linha 627
+
+2021-08-05T19:59:57+00:00 CRITICAL Access level to ElementorPro\Modules\ThemeBuilder\Documents\Theme_Document::get_create_url() must be public (as in class Elementor\Core\Base\Document), em /home1/belfiu90/public_html/ICEPGO.COM.BR/wp-content/plugins/elementor-pro/modules/theme-builder/documents/theme-document.php, na linha 627
+
+2021-08-05T22:06:19+00:00 CRITICAL Access level to ElementorPro\Modules\ThemeBuilder\Documents\Theme_Document::get_create_url() must be public (as in class Elementor\Core\Base\Document), em /home1/belfiu90/public_html/ICEPGO.COM.BR/wp-content/plugins/elementor-pro/modules/theme-builder/documents/theme-document.php, na linha 627
+
+2021-08-05T22:30:31+00:00 CRITICAL Access level to ElementorPro\Modules\ThemeBuilder\Documents\Theme_Document::get_create_url() must be public (as in class Elementor\Core\Base\Document), em /home1/belfiu90/public_html/ICEPGO.COM.BR/wp-content/plugins/elementor-pro/modules/theme-builder/documents/theme-document.php, na linha 627
+
+2021-08-05T22:30:33+00:00 CRITICAL Access level to ElementorPro\Modules\ThemeBuilder\Documents\Theme_Document::get_create_url() must be public (as in class Elementor\Core\Base\Document), em /home1/belfiu90/public_html/ICEPGO.COM.BR/wp-content/plugins/elementor-pro/modules/theme-builder/documents/theme-document.php, na linha 627
+
+2021-08-05T22:30:35+00:00 CRITICAL Access level to ElementorPro\Modules\ThemeBuilder\Documents\Theme_Document::get_create_url() must be public (as in class Elementor\Core\Base\Document), em /home1/belfiu90/public_html/ICEPGO.COM.BR/wp-content/plugins/elementor-pro/modules/theme-builder/documents/theme-document.php, na linha 627
+
+2021-08-05T22:48:13+00:00 CRITICAL Access level to ElementorPro\Modules\ThemeBuilder\Documents\Theme_Document::get_create_url() must be public (as in class Elementor\Core\Base\Document), em /home1/belfiu90/public_html/ICEPGO.COM.BR/wp-content/plugins/elementor-pro/modules/theme-builder/documents/theme-document.php, na linha 627
+
+2021-08-05T22:49:22+00:00 CRITICAL Access level to ElementorPro\Modules\ThemeBuilder\Documents\Theme_Document::get_create_url() must be public (as in class Elementor\Core\Base\Document), em /home1/belfiu90/public_html/ICEPGO.COM.BR/wp-content/plugins/elementor-pro/modules/theme-builder/documents/theme-document.php, na linha 627
+
